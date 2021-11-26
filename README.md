@@ -34,7 +34,7 @@ We got this error code when we decided to upload the kali .iso file on Digital O
 ![2](https://user-images.githubusercontent.com/64130406/143523252-7fcc53e0-fe59-4889-8c45-a8571d877a41.JPG)
 We decided to upload Kali-Linux-2021.2-virtualbox-amd64-disk001 which we had on our VirtualBox and had the .vdi extension. We had a warning that the file size was 39GB and it is very close to most browser limits, we still went ahead with the upload. 
 
-Most Old versions of Kali works fine and so if 2021 doesn't work with you OS, try the 2019 and following the process below, convert it into a vmdk file and upload.
+Most Old versions of Kali works fine and so if 2020 or 2021 doesn't work as we couldn't get a GUI, try the 2019 and following the process below, convert it into a vmdk file and upload. With 2019, you get a Live am64 where you can run a GUI.
 
 ![5](https://user-images.githubusercontent.com/64130406/143523964-e8f4341a-cad9-4bce-8665-a7cce00748a9.png)
 Open Command promt and run as administrator
