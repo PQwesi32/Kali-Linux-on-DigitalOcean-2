@@ -17,5 +17,9 @@ Currently DigitalOcean supports files with these extensions
 * .vdi
 * .raw
 * .img
-* .xz
+* xz
 
+
+Installing Process
+
+![1](https://user-images.githubusercontent.com/64130406/143523086-0d36853e-93ee-4d54-9515-9a96169e5846.JPG)
