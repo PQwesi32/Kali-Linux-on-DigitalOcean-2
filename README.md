@@ -4,6 +4,8 @@ SYNOPSIS
 Just like any Kali-linux application installed in a virtualbox, we will be using it for pentestiong purposes. Try conducting an internet search for the phrase “pen testing tools.” You’ll find that many of the resources include Kali in their “best of” lists. Kali is immensely popular with both pen testers and hackers. The reason for the cross-cultural appeal is that the tools included in Kali can be used for beneficial or malicious purposes.One of the biggest reasons cyber professionals use and often prefer Kali Linux is the fact that all of the  original source code is open source, meaning that the system can be tweaked to the liking of the cybersecurity professional that is using it.  Which this is not necessarily done often, it does provide the option to personalize Kali for specific cybersecurity tasks. Kali Linux also comes with multi language support.
 
 PROBLEMS IT SOLVES:
+
+
 With Kali Linux, pentesters are able to test for vulnerable systems so they can patch them. It helps companies or organizations to identify holes in thier systems and to avoid unethical activities, they engage pentesters who use this tool (Kali) to help solve their problems.
 
 
