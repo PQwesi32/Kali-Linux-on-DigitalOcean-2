@@ -47,7 +47,24 @@ On the command line, enter cd "C:\Program Files\Oracle\VirtualBox" to change the
 ![7](https://user-images.githubusercontent.com/64130406/143524070-cf5dbbe1-5742-4a68-aa8f-49abf9ec7f95.JPG)
 We used the convertfromraw --format command to covert the .iso to .vmdk
 
-VBoxManage convertfromraw --format VMDK "G:\Cyber Security and Networking Classes\kali-linux-2020.1b-installer-amd64.iso" "G:\Cyber Security and Networking Classes\kali-linux-2020.1b-installer-amd64.vmdk"
+VBoxManage convertfromraw --format VMDK "G:\Cyber Security and Networking Classes\kali-linux-2019.1b-installer-amd64.iso" "G:\Cyber Security and Networking Classes\kali-linux-2019.1b-installer-amd64.vmdk"
+
+
+![8](https://user-images.githubusercontent.com/64130406/143524502-5a22757e-fac1-4982-8d72-451af663edec.JPG)
+Locate the .vmdk. 
+
+v Uploading the .vmdk file to Digital Ocean.
+
+![9](https://user-images.githubusercontent.com/64130406/143524599-6be6f7a5-7df9-41d9-8562-18af06e41d34.JPG)
+Open Digital Ocean, on the right side locate the Manage tab. 
+
+
+![10](https://user-images.githubusercontent.com/64130406/143524667-342f1c26-4c4d-4b69-b780-f6235da2dbd6.JPG)
+We clicked on the Images and locate the .vmdk file, we can also drag and drop the .vmdk file 
+
+
+![Capture](https://user-images.githubusercontent.com/64130406/143524855-c5b53a43-17ee-4bb8-92d4-c63e7c1089fb.PNG)
+Now our .vmdk file is uploaded successfully on Digital Ocean. 
 
 
 
