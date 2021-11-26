@@ -17,28 +17,18 @@ After a long wait, the upload came up as an error.
 
 
 ![1](https://user-images.githubusercontent.com/64130406/143523086-0d36853e-93ee-4d54-9515-9a96169e5846.JPG)
-We got this error code when we decided to upload the kali .iso file on Digital Ocean. Digital Ocean only accept files with the extensions 
+We got this error code when we decided to upload the kali .iso file on Digital Ocean. Digital Ocean only accept files with these extensions 
 
 *.gz 
-
 *.bz 
-
 *.bz2 
-
 *.vmdk 
-
 *.vhdx 
-
 *.qcow 
-
 *.qow2 
-
 *.vdi 
-
 *.raw 
-
 *.img 
-
 *.xz.
 
 ![2](https://user-images.githubusercontent.com/64130406/143523252-7fcc53e0-fe59-4889-8c45-a8571d877a41.JPG)
