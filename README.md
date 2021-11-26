@@ -4,3 +4,18 @@ DigitalOcean is a cloud computing vendor that provides an infrastructure as a se
 
 In this project, we attempt to install Kali-Linux on this plaform and use it to hack a windows systen on our network.
 
+
+Currently DigitalOcean supports files with these extensions
+
+* .gz
+* .bz
+* .bz2
+* .vmdk
+* .vhdx
+* .qcow
+* .qow2
+* .vdi
+* .raw
+* .img
+* .xz
+
