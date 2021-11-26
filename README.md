@@ -79,6 +79,13 @@ Now our .vmdk file is uploaded successfully on Digital Ocean.
 
 
 
+![Live amd64](https://user-images.githubusercontent.com/64130406/143528170-44f4d2b3-1cc2-49b9-95e2-e4d1a24ded81.PNG)
+Select the Live amd64. Uually it doesn't run in the first launch. Close and open the colse again and Launch Recovery Console.
+
+
+
+![GUI](https://user-images.githubusercontent.com/64130406/143528360-14130da7-cdde-479c-a265-6363545fee6d.PNG)
+Run the terminal
 
 
 REFERENCES
