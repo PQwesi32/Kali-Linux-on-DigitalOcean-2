@@ -101,6 +101,13 @@ DEMO
 
 
 
+Pros: 
+
+
+Cons:
+
+
+
 REFERENCES
 You cam refer to the following links for additional references.
 1. https://www.kali.org/blog/kali-linux-in-the-digitalocean-cloud/
