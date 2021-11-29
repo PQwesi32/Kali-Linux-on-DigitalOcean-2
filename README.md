@@ -1,7 +1,13 @@
+DISCLAIMER
+
+FOR EDUCATIONAL PURPOSES
+
+PROJECT PRESENTED BY GIDEON DEBRAH & FRED ADU NTI
+
 SYNOPSIS
 
 
-Just like any Kali-linux application installed in a virtualbox, we will be using it for pentestiong purposes. Try conducting an internet search for the phrase “pen testing tools.” You’ll find that many of the resources include Kali in their “best of” lists. Kali is immensely popular with both pen testers and hackers. The reason for the cross-cultural appeal is that the tools included in Kali can be used for beneficial or malicious purposes.One of the biggest reasons cyber professionals use and often prefer Kali Linux is the fact that all of the  original source code is open source, meaning that the system can be tweaked to the liking of the cybersecurity professional that is using it.  Which this is not necessarily done often, it does provide the option to personalize Kali for specific cybersecurity tasks. Kali Linux also comes with multi language support.
+Just like any Kali-linux application installed in a virtualbox, we will be using it for pentesting purposes. Try conducting an internet search for the phrase “pen testing tools.” You’ll find that many of the resources include Kali in their “best of” lists. Kali is immensely popular with both pen testers and hackers. The reason for the cross-cultural appeal is that the tools included in Kali can be used for beneficial or malicious purposes.One of the biggest reasons cyber professionals use and often prefer Kali Linux is the fact that all of the  original source code is open source, meaning that the system can be tweaked to the liking of the cybersecurity professional that is using it.  Which this is not necessarily done often, it does provide the option to personalize Kali for specific cybersecurity tasks. Kali Linux also comes with multi language support.
 
 PROBLEMS IT SOLVES:
 
