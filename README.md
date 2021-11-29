@@ -97,6 +97,9 @@ Run the terminal
 USE CASES
 Kali is basically used by both Ethical and Unethical hackers for pentesting and malicious purposes respectively.
 
+DEMO
+
+
 
 REFERENCES
 You cam refer to the following links for additional references.
