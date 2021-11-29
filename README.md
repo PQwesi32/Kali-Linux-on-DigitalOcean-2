@@ -94,6 +94,10 @@ Select the Live amd64. Uually it doesn't run in the first launch. Close and open
 Run the terminal
 
 
+USE CASES
+Kali is basically used by both Ethical and Unethical hackers for pentesting and malicious purposes respectively.
+
+
 REFERENCES
 You cam refer to the following links for additional references.
 1. https://www.kali.org/blog/kali-linux-in-the-digitalocean-cloud/
