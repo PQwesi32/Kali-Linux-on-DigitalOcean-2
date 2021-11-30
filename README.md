@@ -102,18 +102,21 @@ DEMO
 
 
 Pros: 
+
 1.Provides high security.
 2. Does great job with penetration testing.
 3. Has good number of testing tools within.
 
 
 Cons:
+
 1.Usage wise, it is tough for use by beginners. Can be improved.
 2. With Kali Linux have noticed driver related issues especially with Nvidia graphics cards.
 3. Kali Linux can be improved for use as a day to day OS.
 
 
 FINAL REVIEW
+
 Kali Linux is good at what it does: acting as a platform for up to date security utilities. But in using Kali, it became painfully clear that there is a lack of friendly open source security tools and an even greater lack of good documentation for these tools. Using the tools provided requires some extensive reading of its documentation before its usage but in all, its a great open source platform for pentesting.
 
 
